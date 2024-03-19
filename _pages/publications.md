@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Historia Económica 
 
-{% include base_path %}
+adsadasdasdas
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Meisel, A., Ramirez, M.T, Lasso, D., 2023, Gender height dimorphism: An approximation of the living Standards in Colombia, 1920-1990, Journal of the Spanish Economic History Association, vol. 19(02), pages 124-139. <a href = https://ideas.repec.org/a/ahe/invest/v19y2023i02p124-139.html
