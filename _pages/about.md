@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an economist from Universidad de los Andes with a minor in History and Chinese Language and Culture. Currently, I am a candidate for a Master's degree in Economics at the same university. Additionally, I serve as a Teaching Assistant (TA) for the master's econometrics course and as the lead instructor for a data analysis course using R, both at the University of los Andes. My research focuses on creating counterfactual images using convolutional neural networks to address issues related to the Violation of SUTVA (Stable Unit Treatment Value Assumption) in causal inference.
+I serve as a Teaching Assistant (TA) for the master's econometrics course and as the lead instructor for a data analysis course using R, both at the University of los Andes.I am an economist from Universidad de los Andes with a minor in History and Chinese Language and Culture. Currently, I am studying a Master's Degree in Economics at the same university. Additionally, My research focuses on creating counterfactual images using convolutional neural networks to address issues related to the Violation of SUTVA (Stable Unit Treatment Value Assumption) in causal inference.
 
 I work in two broad areas of knowledge. Firstly, in Causal Inference, where I engage in applied econometrics to evaluate the impact of policies or treatments. Secondly, in the field of Machine Learning where I develop predictive and generative models. 
 
