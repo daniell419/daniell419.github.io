@@ -1,5 +1,3 @@
-
-
 ---
 title: "Introduction to data analysis in R"
 collection: teaching
