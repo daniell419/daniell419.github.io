@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://daniell419.github.io/files/cv.pdf)
+[Download CV here](https://daniell419.github.io/files/CV_Daniel_Lasso-EN.pdf)
