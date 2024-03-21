@@ -2,7 +2,7 @@
 title: "Introduction to data analysis in R"
 collection: "teaching"
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /_teaching/2015-spring-teaching-1
 venue: "University of los Andes, Economics Department"
 date: 2024-I
 location: "Bogotá D.C"
