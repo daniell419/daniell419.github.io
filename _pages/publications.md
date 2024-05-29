@@ -16,7 +16,7 @@ author_profile: true
 
 ## Working Papers 
 
-* Lasso-jaramillo, D. "Fit is all you need: Counterfactual Image Generation for Spatial Intervention Evaluation", Working Paper [Download](https://daniell419.github.io/files/Fit_you_need.pdf)
+* Lasso-jaramillo, D. "Predict is All You Need: Counterfactual Raster Generation for Spatial Intervention Evaluation", Working Paper [Download](https://daniell419.github.io/files/Predict_is_all_you_need (1).pdf)
 
 * Cepega, V., Lasso, D., Pinilla-Alarcón, D., Velásquez, M., "SOAT-Greedy: Optimal Allocation of Ambulances in Bogotá using Reinforcement Learning", Working Paper [Download](https://daniell419.github.io/files/Soat-Greedy.pdf)
 
