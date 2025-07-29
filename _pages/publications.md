@@ -20,7 +20,7 @@ author_profile: true
 
 * A Framework to Estimate the ATT in RCTs Without Defining a Control Group.
 
-* SOAT-Greedy: Optimal Allocation of Ambulances in Bogotá using Reinforcement Learning. <i> with Cepeda, V., Lasso, D., Pinilla-Alarcón, D., Velásquez, M. </i> [Download](https://daniell419.github.io/files/Soat-Greedy.pdf)
+* SOAT-Greedy: Optimal Allocation of Ambulances in Bogotá using Reinforcement Learning. <i> - with Cepeda, V., Lasso, D., Pinilla-Alarcón, D., Velásquez, M. </i> [Download](https://daniell419.github.io/files/Soat-Greedy.pdf)
 
 <p hidden> * Lasso, D., Mejia, G. Rozo, M.,, Velásquez, M., "Predicting fatal Transit Accidents in Bogota", Working Paper [Download](https://daniell419.github.io/files/accidentes.pdf)</p>
 
