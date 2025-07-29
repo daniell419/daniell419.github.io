@@ -16,7 +16,7 @@ author_profile: true
 ## Working Papers 
 [<b>Thesis</b>] Spillover Gridlock: Revisiting Spillovers in  Differences-in-differences. Universidad de los Andes.  <a href = "https://repositorio.uniandes.edu.co/server/api/core/bitstreams/f5733f7d-dede-4224-9d86-ed7070570abc/content" > PDF </a> 
 
-* Does Government Work for Public or Votes?: The Political Economy of Infraestructure Allocation - </i> with Manuel Fernández, Marco Gonzalez-Navarro and Climent Quintana. </i>
+* Does Government Work for Public or Votes?: The Political Economy of Infraestructure Allocation - <i> with Manuel Fernández, Marco Gonzalez-Navarro and Climent Quintana. </i>
 
 * A Framework to Estimate the ATT in RCTs Without Defining a Control Group.
 
