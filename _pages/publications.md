@@ -18,7 +18,9 @@ author_profile: true
 
 * Does Government Work for Public or Votes?: The Political Economy of Infraestructure Allocation. with Manuel Fernández, Marco Gonzalez-Navarro and Climent Quintana.
 
-* SOAT-Greedy: Optimal Allocation of Ambulances in Bogotá using Reinforcement Learning [Download](https://daniell419.github.io/files/Soat-Greedy.pdf) with Cepeda, V., Lasso, D., Pinilla-Alarcón, D., Velásquez, M.
+* A Framework to Estimate the ATT in RCTs Without Defining a Control Group.
+
+* SOAT-Greedy: Optimal Allocation of Ambulances in Bogotá using Reinforcement Learning.  with Cepeda, V., Lasso, D., Pinilla-Alarcón, D., Velásquez, M. [Download](https://daniell419.github.io/files/Soat-Greedy.pdf)
 
 <p hidden> * Lasso, D., Mejia, G. Rozo, M.,, Velásquez, M., "Predicting fatal Transit Accidents in Bogota", Working Paper [Download](https://daniell419.github.io/files/accidentes.pdf)</p>
 
