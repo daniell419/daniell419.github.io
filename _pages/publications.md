@@ -22,7 +22,7 @@ author_profile: true
 
 * Trade Fragmentation and Volatility to Shocks - <i> with Erhan Artuc and Daria Taglioni. </i>
 
-* SOAT-Greedy: Optimal Allocation of Ambulances in Bogotá using Reinforcement Learning [Download](https://daniell419.github.io/files/Soat-Greedy.pdf)
+* Optimal Allocation of Ambulances in Bogotá using Reinforcement Learning [PDF](https://daniell419.github.io/files/Soat-Greedy.pdf)
 
 <p hidden> * Lasso, D., Mejia, G. Rozo, M.,, Velásquez, M., "Predicting fatal Transit Accidents in Bogota", Working Paper [Download](https://daniell419.github.io/files/accidentes.pdf)</p>
 
