@@ -18,3 +18,4 @@ Implements an imputation approach that identifies a subset of **never-exposed, n
 # install.packages("devtools")
 devtools::install_github("daniell419/spill_imputation")
 library(spillimputation)
+```
