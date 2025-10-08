@@ -5,8 +5,7 @@ layout: single
 author_profile: true
 ---
 
-# spill_imputation
-
+- # 1) spill_imputation
 **Imputation-based Differences-in-Differences estimator for spillovers.**  
 Implements an imputation approach that uses a subset of **never-exposed, untreated** units to recover untreated counterfactuals and aggregate dynamic effects (ATOT, and ASEU) without imposing a pre-specified exposure function.
 
