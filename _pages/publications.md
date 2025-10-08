@@ -1,12 +1,12 @@
 ---
 layout: archive
 title: "Research"
-permalink: /publications/
+permalink: /Research/
 author_profile: true
 ---
 {% include base_path %}
 
-## Publications
+## Published Articles
 * Acosta, K., Jaramillo-Echeverri, J., Lasso-Jaramillo, D., & Sarasti-Sierra, A. (2025). The geography of informality: the case of Colombia. Spatial Economic Analysis, 1–19. <a href = "https://doi.org/10.1080/17421772.2025.2522807" > DOI </a>. 
 
 * Meisel, A., Ramirez, M.T, Lasso, D., 2023, Gender height dimorphism: An approximation of the living Standards in Colombia, 1920-1990, Journal of the Spanish Economic History Association, vol. 19(02), pages 124-139. <a href = "https://recyt.fecyt.es/index.php/IHE/article/view/100417/73128" > PDF </a>.
