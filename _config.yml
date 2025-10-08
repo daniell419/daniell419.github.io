@@ -246,6 +246,13 @@ defaults:
       share: true
 
 
+main:
+  - title: "About"
+    url: /
+  - title: "Research"
+    url: /research/
+
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
