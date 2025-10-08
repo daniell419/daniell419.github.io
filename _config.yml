@@ -209,8 +209,6 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
-  - title: "Publications"
-    url: /publications/   # only if you have a publications index page
   - title: "Teaching"
     url: /teaching/       # idem
   - title: "CV"
