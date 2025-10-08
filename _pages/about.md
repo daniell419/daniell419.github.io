@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Daniel Felipe Lasso Jaramillo"
+title: "Daniel Lasso Jaramillo"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,4 +10,4 @@ I hold a B.A. and an M.A. in Economics from Universidad de los Andes in Colombia
 
 My current research centers on Difference-in-Differences (DiD) and Randomized Controlled Trials (RCTs), with a particular focus on spillover effects, treatment heterogeneity, optimal treatment allocation, and the integration of machine learning into these methodologies.
 
-Previously, I served as an Adjunct Professor and Teaching Assistant for various courses at Universidad de los Andes. I have also conducted research in both the private sector (Quantil) and the public sector (Colombian Central Bank).
+Previously, I served as an Adjunct Professor and Teaching Assistant for various courses at Universidad de los Andes. I have also conducted research in both the private sector (Quantil) and the public sector (Colombian Central Bank and DIAN).
