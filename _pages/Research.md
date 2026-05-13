@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ## Published Articles
-* Acosta, K., Jaramillo-Echeverri, J., Lasso-Jaramillo, D., & Sarasti-Sierra, A. (2025). The geography of informality: the case of Colombia. Spatial Economic Analysis, 1–19. <a href = "https://doi.org/10.1080/17421772.2025.2522807" > DOI </a>. 
+* Acosta, K., Jaramillo-Echeverri, J., Lasso-Jaramillo, D., & Sarasti-Sierra, A. (2025). The geography of informality: the case of Colombia. Spatial Economic Analysis, 1–19. [Local PDF](https://daniell419.github.io/files/SC-NN.pdf) <a href = "https://doi.org/10.1080/17421772.2025.2522807" > (Published Article) </a> 
 
 * Meisel, A., Ramirez, M.T, Lasso, D., 2023, Gender height dimorphism: An approximation of the living Standards in Colombia, 1920-1990, Journal of the Spanish Economic History Association, vol. 19(02), pages 124-139. <a href = "https://recyt.fecyt.es/index.php/IHE/article/view/100417/73128" > PDF </a>.
 
@@ -18,9 +18,17 @@ author_profile: true
 
 * Does Government Work for Public or Votes?: The Political Economy of Infraestructure Allocation - <i> with Manuel Fernández, Marco Gonzalez-Navarro and Climent Quintana. </i>
 
-* A Framework to Estimate the ATT in RCTs Without Defining a Control Group.
+<p hidden> * A Framework to Estimate the ATT in RCTs Without Defining a Control Group.</p>
 
 * Trade Fragmentation and Volatility to Shocks - <i> with Erhan Artuc and Daria Taglioni. </i>
+
+
+## Book Chapters
+* Bonet, J., Ramirez, M.T, Lasso, D., 2023, 100 Years of Industrial History of the Banco de la República of Colombia, Bogota, Book Chapter <a href = "https://www.banrep.gov.co/es/publicaciones/libros/memorias-banrep-primer-centenario" > PDF </a>.
+
+
+
+## Permanent Working Papers 
 
 * Synthetic Control Estimation with Neural Networks [PDF](https://daniell419.github.io/files/SC-NN.pdf)
 
@@ -31,6 +39,3 @@ author_profile: true
 <p hidden> * Lasso, D., Mejia, G. Rozo, M., "Toward a Cost-Effective Prediction of Poverty in Colombia", Working Paper [Download](https://daniell419.github.io/files/pverty.pdf)</p>
 
 <p hidden> * Lasso, D., "What's Up or WhatsApp: Effect of High-Speed Internet Connection on Standarized Tests", Working Paper  [Download](https://daniell419.github.io/files/PNFO.pdf) </p>
-
-## Book Chapters
-* Bonet, J., Ramirez, M.T, Lasso, D., 2023, 100 Years of Industrial History of the Banco de la República of Colombia, Bogota, Book Chapter <a href = "https://www.banrep.gov.co/es/publicaciones/libros/memorias-banrep-primer-centenario" > PDF </a>.
