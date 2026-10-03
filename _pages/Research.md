@@ -14,16 +14,16 @@ author_profile: true
 <p hidden> * Lasso, D., Pinilla-Alarcón, D., y Caicedo-Silva, S. (2023). Misión Kemmerer: su impacto sobre el desempeño económico a corto y mediano plazo en los países de #Latinoamérica. Tiempo Y economía, 10(2), 1–19. <a href = "https://revistas.utadeo.edu.co/index.php/TyE/article/view/mision-kemmerer-impacto-sobre-desempeno-economico-latinoamerica" > Download </a>.</p>
 
 ## Working Papers 
-[<b>Thesis</b>] Spillover Gridlock: Revisiting Spillovers in  Differences-in-differences. Universidad de los Andes.  <a href = "https://repositorio.uniandes.edu.co/server/api/core/bitstreams/f5733f7d-dede-4224-9d86-ed7070570abc/content" > (PDF) </a> 
+[<b>M.A. Thesis</b>] Spillover Gridlock: Revisiting Interference in Difference-in-differences. Documentos CEDE 2026-26, Universidad de los Andes.  <a href = "https://repositorio.uniandes.edu.co/server/api/core/bitstreams/f5733f7d-dede-4224-9d86-ed7070570abc/content" > (PDF) </a> 
 
 
 ## Work in progress 
 
-* Does Government Work for Public or Votes?: The Political Economy of Infraestructure Allocation - <i> with Manuel Fernández, Marco Gonzalez-Navarro and Climent Quintana. </i>
+* The Resilience Paradox: Effects of Trade Fragmentation on Income and Volatility - <i> with Erhan Artuc, Pinelopi Goldberg and Daria Taglioni. </i>
+
+* Paving the Rich? Efficiency, Equity, and the Allocation of Public Infrastructure - <i> with Manuel Fernández, Marco Gonzalez-Navarro and Climent Quintana. </i>
 
 <p hidden> * A Framework to Estimate the ATT in RCTs Without Defining a Control Group.</p>
-
-* Trade Fragmentation and Volatility to Shocks - <i> with Erhan Artuc and Daria Taglioni. </i>
 
 
 ## Book Chapters

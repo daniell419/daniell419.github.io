@@ -25,10 +25,10 @@ author:
   name             : "Daniel Lasso"
   pronouns         : # example: "she/her"  
   bio              : "Economist | ML & Econometrics"
-  location         : "Bogota D.C"
-  employer         : "University of los Andes"
+  location         : "Cambridge, MA"
+  employer         : "Harvard University"
   uri              : # URL
-  email            : "df.lasso@uniandes.edu.co" 
+  email            : "dlasso@fas.harvard.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
