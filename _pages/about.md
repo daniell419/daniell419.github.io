@@ -1,10 +1,7 @@
 ---
-permalink: /
+permalink: /about-old/
 title: "Daniel Lasso Jaramillo"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 I am a pre-doctoral fellow at Harvard University's Department of Economics, working under the supervision of Professor Gabriel Kreindler. My work focuses on Econometrics and Development Economics, with a special focus on spillovers and causal inference. I hold a B.A. and an M.A. in Economics from Universidad de los Andes, Colombia. 
 
