@@ -167,6 +167,8 @@ section.block > .wrap > h2 { font-weight: 300; font-size: clamp(1.8rem, 3.4vw, 2
 .me { font-weight: 600; color: var(--ink); }
 [hidden] { display: none !important; }
 
+.code { margin: 12px 0 0; padding: 12px 14px; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; overflow-x: auto; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 0.85rem; line-height: 1.6; color: var(--ink); max-width: 62ch; }
+.note { color: var(--muted); font-size: 1rem; margin: -8px 0 28px; max-width: 62ch; }
 .xp { display: grid; grid-template-columns: 200px minmax(0, 1fr); gap: 14px 40px; margin: 0; }
 .xp dt { font-family: var(--font-ui); font-weight: 600; font-size: 0.95rem; color: var(--muted); line-height: 1.7; }
 .xp dd { margin: 0; }
@@ -200,9 +202,9 @@ footer .fine { margin-top: 36px; font-family: var(--font-ui); font-size: 0.85rem
     <a class="mark" href="#top">Daniel Lasso</a>
     <nav aria-label="Main">
       <a href="#research">Research</a>
+      <a href="#software">Software</a>
+      <a href="#teaching">Teaching</a>
       <a href="#experience">Experience</a>
-      <a href="https://daniell419.github.io/teaching/">Teaching</a>
-      <a href="https://daniell419.github.io/software/">Software</a>
       <a href="https://daniell419.github.io/files/cv.pdf">CV</a>
       <button class="theme" id="theme" type="button">Dark mode</button>
     </nav>
@@ -330,6 +332,47 @@ footer .fine { margin-top: 36px; font-family: var(--font-ui); font-size: 0.85rem
           </article>
         </div>
       </div>
+    </div>
+  </section>
+
+  <section class="block" id="software">
+    <div class="wrap">
+      <h2>Software</h2>
+      <div class="group first">
+        <h3>R package</h3>
+        <div class="items">
+          <article class="item">
+            <h4>spill_imputation</h4>
+            <p class="blurb">An imputation-based difference-in-differences estimator for spillovers. It uses a subset of never-exposed, untreated units to recover untreated counterfactuals and aggregate dynamic effects (ATOT and ASEU), without imposing a pre-specified exposure function.</p>
+            <pre class="code"><code>devtools::install_github("daniell419/spill_imputation")
+library(spillimputation)</code></pre>
+            <p class="rowlinks"><a href="https://github.com/daniell419/spill_imputation">GitHub</a></p>
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="teaching">
+    <div class="wrap">
+      <h2>Teaching</h2>
+      <p class="note">All at Universidad de los Andes, Colombia.</p>
+      <dl class="xp">
+        <dt>Jan 2024 – Dec 2024</dt>
+        <dd><a href="https://economia.uniandes.edu.co/sites/default/files/meca/pracademicos/202410/TallerdeProgramacion-R-DanielFelipeLassoJaramillo-202410.pdf">Data Analysis in R</a> (graduate)<span>Principal teacher</span></dd>
+        <dt>Jan 2023 – Jul 2024</dt>
+        <dd>Advanced Econometrics (graduate)<span>Teaching assistant to Dr. Manuel Fernandez</span></dd>
+        <dt>Aug 2020 – Dec 2022</dt>
+        <dd>Colombian Economic History<span>Undergraduate teaching assistant to Dr. María del Pilar López-Uribe</span></dd>
+        <dt>Aug 2020 – Dec 2020</dt>
+        <dd>Monetary Policy<span>Undergraduate teaching assistant to Dr. Marc Hofstetter</span></dd>
+        <dt>Jan 2019 – Jul 2020</dt>
+        <dd>General Economic History<span>Undergraduate teaching assistant to Dr. Juan Sebastián Galán</span></dd>
+        <dt>Jan 2019 – Dec 2019</dt>
+        <dd>Calculus I, II and III<span>Math tutor, Center for Success in Science</span></dd>
+        <dt>Aug 2018 – Dec 2018</dt>
+        <dd>Calculus I<span>Undergraduate teaching assistant to Dr. Ferney Benítez Castro</span></dd>
+      </dl>
     </div>
   </section>
 
