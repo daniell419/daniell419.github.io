@@ -320,10 +320,14 @@ footer .fine { margin-top: 36px; font-family: var(--font-ui); font-size: 0.85rem
       </div>
 
       <div class="group">
-        <h3>Earlier working papers</h3>
+        <h3>In the media</h3>
         <div class="items">
-          <article class="item" data-topics="Econometrics,Machine learning"><h4>Synthetic Control Estimation with Neural Networks</h4></article>
-          <article class="item" data-topics="Machine learning,Urban"><h4>Optimal Allocation of Ambulances in Bogotá using Reinforcement Learning</h4></article>
+          <article class="item" data-topics="Urban">
+            <h4>The accident prediction model that could save lives in Bogotá</h4>
+            <p class="meta">Luis Miguel Castellanos Barragan. <em>El Espectador</em>, December 27, 2022. In Spanish.</p>
+            <p class="blurb">Coverage of a map that predicts where fatal traffic crashes are most likely in Bogotá, built with Gabriela Mejía and Matteo Rozo at Universidad de los Andes.</p>
+            <p class="rowlinks"><a href="https://www.elespectador.com/bogota/el-modelo-de-prediccion-de-accidentes-que-podria-salvar-vidas-en-bogota/">Read article</a></p>
+          </article>
         </div>
       </div>
     </div>
@@ -551,7 +555,7 @@ footer .fine { margin-top: 36px; font-family: var(--font-ui); font-size: 0.85rem
   /* ---------- Research topic filter ---------- */
   var topics = [
     ['Spatial economics', 'sp'], ['Urban', 'sp'], ['International', 'in'],
-    ['Econometrics', 'me'], ['Machine learning', 'me'], ['Economic history', 'hi']
+    ['Econometrics', 'me'], ['Economic history', 'hi']
   ];
   var colorOf = {}; topics.forEach(function (t) { colorOf[t[0]] = t[1]; });
   var filterEl = document.getElementById('filter');
@@ -590,7 +594,7 @@ footer .fine { margin-top: 36px; font-family: var(--font-ui); font-size: 0.85rem
     Array.prototype.forEach.call(document.querySelectorAll('#research [data-k]'), function (b) {
       b.setAttribute('aria-pressed', b.getAttribute('data-k') === current ? 'true' : 'false');
     });
-    note.textContent = current ? shown + (shown === 1 ? ' paper on ' : ' papers on ') + current.toLowerCase() : '';
+    note.textContent = current ? shown + (shown === 1 ? ' item on ' : ' items on ') + current.toLowerCase() : '';
   }
   document.getElementById('research').addEventListener('click', function (e) {
     var b = e.target.closest ? e.target.closest('[data-k]') : null;
